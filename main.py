@@ -1,5 +1,5 @@
 """
-This is gonna be the most try hard code ever
+This piece of code was created by JagTheFriend
 """
 import json
 import getpass
