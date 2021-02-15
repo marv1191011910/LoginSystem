@@ -7,7 +7,8 @@ import getpass
 db = "data.json"  # name of the database
 with open(db, "r") as file:  # load the data into local variable
     users: {str: str} = json.load(file)
-    # very good
+    # very goodddddd
+
 
 
 
