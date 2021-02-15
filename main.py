@@ -21,8 +21,8 @@ def login():
 
     # get password and username
     user_name = str(input("\nPlease enter username: "))
-    #password = getpass.getpass("Password: ") # this is blocking user input
-    password =str(input("Password: "))
+   # password = getpass.getpass("Password: ")
+    password=str(input("\nPlease enter username: "))
 
     # check whether the user name is registered
     if not user_name in users.keys():
