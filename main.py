@@ -10,7 +10,7 @@ with open(db, "r") as file:  # load the data into local variable
 
 
 def menu() -> str:
-    """This is menu, where user picks a letter"""
+    """This is menu, where user picks a letter u want"""
 
     # user makes their choice and enters a number
     return str(input("\nPlease enter \n1) To login \n2) To make a new account \n3) To quit \n:"))
