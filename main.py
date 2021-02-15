@@ -1,5 +1,5 @@
 """
-This piece of code was created by JagTheFriend
+This piece of code was created by JagTheFriend and Marvkey
 """
 import json
 import getpass
