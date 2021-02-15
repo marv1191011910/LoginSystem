@@ -83,7 +83,7 @@ def main():
         if choice == 1:
             return login()
 
-    print("\nPlease enter a valid number")
+    print("\nPlease enter a valid number 1 -50")
     return menu()
 
 
